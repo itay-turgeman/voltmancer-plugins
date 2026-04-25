@@ -1,0 +1,18 @@
+{
+  "name": "voltmancer-plugins",
+  "metadata": {
+    "description": "Voltmancer's personal Claude Code plugins — cross-machine tools that travel with Itay across his Linux box, work Mac, and anywhere else he runs Claude Code"
+  },
+  "owner": {
+    "name": "Itay Turgeman",
+    "email": "itayspacecowboy@gmail.com",
+    "url": "https://github.com/itay-turgeman"
+  },
+  "plugins": [
+    {
+      "name": "scriber",
+      "description": "Live session scribe into Notion. Builds a running page under Lab → Scribe with a 'Now' block + adaptive sections (Timeline, Findings, Decisions, Open Questions, References) as you work. Hybrid manual/auto. Use when you want a session's work — debug, SOP, research, anything — captured as a Notion page you can resume after distractions or promote into the Lab Pipeline as a Draft.",
+      "source": "./scriber"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scriber",
+  "description": "Live session scribe into Notion — builds a running page with a 'Now' block + adaptive sections as you work, so you always know where you left off",
+  "version": "0.1.0",
+  "author": {
+    "name": "Itay Turgeman",
+    "email": "itayspacecowboy@gmail.com"
+  },
+  "homepage": "https://github.com/itay-turgeman/voltmancer-plugins",
+  "category": "productivity"
+}
