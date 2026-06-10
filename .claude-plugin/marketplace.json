@@ -13,6 +13,11 @@
       "name": "scriber",
       "description": "Live session scribe into Notion. Builds a running page under Lab → Scribe with a 'Now' block + adaptive sections (Timeline, Findings, Decisions, Open Questions, References) as you work. Hybrid manual/auto. Use when you want a session's work — debug, SOP, research, anything — captured as a Notion page you can resume after distractions or promote into the Lab Pipeline as a Draft.",
       "source": "./scriber"
+    },
+    {
+      "name": "ticketing",
+      "description": "Frictionless board-ticket minting from any live session. /ticket <one-liner> (or just saying 'ticket this') expands session context into a properly-noted card on the right atlas-hq board — sentry→SY, reaper→RP, lola→LO, orb→OR, default HQ — and replies with the id. Zero CLI typed by Itay.",
+      "source": "./ticketing"
     }
   ]
 }

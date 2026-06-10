@@ -1,0 +1,11 @@
+{
+  "name": "ticketing",
+  "description": "Frictionless board-ticket minting from any live session — /ticket <one-liner> expands into a context-rich card on the right atlas-hq board and replies with the id",
+  "version": "0.1.0",
+  "author": {
+    "name": "Itay Turgeman",
+    "email": "itayspacecowboy@gmail.com"
+  },
+  "homepage": "https://github.com/itay-turgeman/voltmancer-plugins",
+  "category": "productivity"
+}
